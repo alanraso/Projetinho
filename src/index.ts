@@ -4,11 +4,10 @@ import { PokemonDatasource } from './pokemon.datasource';
 const datasource = new PokemonDatasource();
 const pokemon = new Pokemon();
 
-pokemon.name = 'Bulbassaur';
-
 async function testList() {
-  const lista = await datasource.list();
-  console.log(lista);
+  const pokemons = await datasource.list();
+
+  console.log(pokemons.map(p => p.name));
 }
 
 testList();

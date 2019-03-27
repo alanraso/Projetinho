@@ -15,8 +15,8 @@ const pokemon = new pokemon_1.Pokemon();
 pokemon.name = 'Bulbassaur';
 function testList() {
     return __awaiter(this, void 0, void 0, function* () {
-        const lista = yield datasource.list();
-        console.log(lista);
+        const pokemons = yield datasource.list();
+        console.log(pokemons.map(p => p.name));
     });
 }
 testList();

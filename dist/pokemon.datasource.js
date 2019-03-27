@@ -8,26 +8,32 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     });
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+require("cross-fetch/polyfill");
 const apollo_boost_1 = require("apollo-boost");
-const client = new apollo_boost_1.default({ uri: 'https://graphql-pokemon.now.sh' });
+const graphql_tag_1 = require("graphql-tag");
 class PokemonDatasource {
+    constructor() {
+        this.client = new apollo_boost_1.default({
+            uri: 'https://graphql-pokemon.now.sh/graphiql',
+        });
+    }
     list() {
         return __awaiter(this, void 0, void 0, function* () {
+            const listQuery = graphql_tag_1.default `
+    {
+      pokemons(first: 10) {
+        id
+        name
+        types
+      }
+    }`;
             try {
-                const result = yield client.query({ query: apollo_boost_1.gql `
-        query Pokemon {
-          pokemons(first: 10) {
-            id
-            name
-            types
-          }
-        }
-      ` });
-                return result.data;
+                const result = yield this.client.query({ query: listQuery });
+                return result.data.pokemons;
             }
             catch (error) {
-                console.error('AAAAAA');
                 console.error(error);
+                return null;
             }
         });
     }
