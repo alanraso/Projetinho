@@ -1,6 +1,7 @@
 export class Pokemon {
+  id: string;
   name: string;
-  hitPoints: number;
+  types: string[];
 
   // Branch feature/walk
   walk() {
@@ -8,7 +9,7 @@ export class Pokemon {
   }
 
   // Branch feature/attack - conflict
-  attack(move: string) {
-    console.log(`${name} used ${move}.`);
+  attack() {
+    console.log(`${name} attacked!`);
   }
 }
