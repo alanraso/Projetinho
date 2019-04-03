@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "baseUrl": "./src",
     "target": "es6",
     "module": "commonjs",
     "moduleResolution": "node",
@@ -24,22 +23,6 @@
     ],
     "outDir": "dist",
     "allowJs": true,
-    "paths": {
-      "@domain": ["./domain/"],
-      "@domain/*": ["./domain/*"],
-      "@api": ["./api/"],
-      "@api/*": ["./api/*"],
-      "@core": ["./core/"],
-      "@core/*": ["./core/*"],
-      "@data": ["./data/"],
-      "@data/*": ["./data/*"],
-      "@presentation": ["./presentation/"],
-      "@presentation/*": ["./presentation/*"],
-      "@test": ["./test/"],
-      "@test/*": ["./test/*"],
-      "@schema": ["./api/graphql/graphql-schema/"],
-      "@schema/*": ["./api/graphql/graphql-schema/*"]
-    }
   },
   "exclude": [
     "node_modules",

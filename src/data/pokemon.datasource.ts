@@ -1,7 +1,7 @@
 import 'cross-fetch/polyfill'; // Used by ApolloClient
 import ApolloClient from 'apollo-boost';
 import gql from 'graphql-tag';
-import { Pokemon } from '@domain/pokemon';
+import { Pokemon } from '../domain/pokemon';
 
 export class PokemonDatasource {
   private client: ApolloClient<{}>;

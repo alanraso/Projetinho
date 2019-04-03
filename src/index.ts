@@ -1,4 +1,4 @@
-import { PokemonView } from '@presentation/pokemon.view';
+import { PokemonView } from './presentation/pokemon.view';
 
 const pokemonView = new PokemonView();
 
