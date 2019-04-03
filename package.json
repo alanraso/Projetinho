@@ -1,0 +1,29 @@
+{
+  "name": "projetinho",
+  "version": "0.0.1",
+  "description": "QSaude's middleware",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "clean-dist": "rm -rf ./dist",
+    "postinstall": "yarn run clean-dist && tsc",
+    "reinstall": "rm -rf ./node_modules || true && yarn cache clean && yarn"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "7.0.0",
+    "apollo-boost": "0.3.1",
+    "graphql": "14.2.0",
+    "cross-fetch": "3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "11.9.4",
+    "tsconfig-paths": "3.7.0",
+    "typescript": "3.3.3"
+  },
+  "engines": {
+    "node": "10.15.1",
+    "npm": "6.1.0",
+    "yarn": ">=1.10.1"
+  }
+}
