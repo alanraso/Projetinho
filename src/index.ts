@@ -1,13 +1,5 @@
-import { Pokemon } from './pokemon';
-import { PokemonDatasource } from './pokemon.datasource';
+import { PokemonView } from '@presentation/pokemon.view';
 
-const datasource = new PokemonDatasource();
-const pokemon = new Pokemon();
+const pokemonView = new PokemonView();
 
-async function testList() {
-  const pokemons = await datasource.list();
-
-  console.log(pokemons.map(p => p.name));
-}
-
-testList();
+pokemonView.start();

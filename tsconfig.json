@@ -33,6 +33,8 @@
       "@core/*": ["./core/*"],
       "@data": ["./data/"],
       "@data/*": ["./data/*"],
+      "@presentation": ["./presentation/"],
+      "@presentation/*": ["./presentation/*"],
       "@test": ["./test/"],
       "@test/*": ["./test/*"],
       "@schema": ["./api/graphql/graphql-schema/"],
