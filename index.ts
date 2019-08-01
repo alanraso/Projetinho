@@ -6,3 +6,4 @@ pokemon.name = 'Pikachu';
 console.log(pokemon.name + ' was created!');
 
 pokemon.attack();
+pokemon.move();
