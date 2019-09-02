@@ -3,6 +3,6 @@ export class Pokemon {
   hitPoints: number;
 
   move() {
-    console.log(`${this.name} moved!`);
+    console.log(this.name + ' moved!');
   }
 }
