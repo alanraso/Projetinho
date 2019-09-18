@@ -1,5 +1,3 @@
-import { PokemonView } from './presentation/pokemon.view';
+import { start } from './pokemon.view';
 
-const pokemonView = new PokemonView();
-
-pokemonView.start();
+start();

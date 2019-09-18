@@ -18,13 +18,14 @@
     ],
     "preserveConstEnums": true,
     "suppressImplicitAnyIndexErrors": true,
+    "typeRoots": [
+      "node_modules/@types"
+    ],
     "outDir": "dist",
     "allowJs": true,
-    "skipLibCheck": true
   },
   "exclude": [
     "node_modules",
-    "node_modules/**",
     "dist",
     "tsconfig-paths-dist.js"
   ],
