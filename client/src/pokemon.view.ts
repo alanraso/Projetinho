@@ -6,7 +6,7 @@ export async function start() {
   renderList(pokemonList);
 }
 
-function renderList(pokemons: Pokemon[]) {
+export function renderList(pokemons: Pokemon[]) {
   console.info('(H1) Pokemons:');
   pokemons.forEach(pokemon => renderPokemonCell(pokemon.name, pokemon.types));
 }

@@ -10,6 +10,12 @@ server.get('/pokemons', (req, res) => {
   res.send(pokemons);
 });
 
+server.get('/pokemons/:id', (req, res) => {
+  const id: number = +req.params.id;
+  const pokemons = fetchPokemons();
+  res.send(pokemons[id - 1]);
+});
+
 server.listen(port, () => {
   console.info(`Servidor escutando em http://localhost:${port}`);
 });
