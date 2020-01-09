@@ -1,15 +1,12 @@
+import { observePokemons, capturePokemon, fetchPokedexInfo } from './promises';
 import { Pokemon } from './pokemon';
-import { observePokemons, capturePokemon, fetchPokedexInfo } from './promises'
 
-async function startGame(): Promise<void> {
-  const pokemons: Pokemon[] = await observePokemons();
-  console.log(pokemons);
-
+async function startGame() {
   try {
-    const pokemon = await capturePokemon(56);
-    console.info(`Parabéns, você capturou o ${pokemon.name}`);
-
-    const details = await fetchPokedexInfo(56);
+    const pokemons: Pokemon[] = await observePokemons();
+    const pokemon: Pokemon = await capturePokemon(pokemons[0].id);
+    console.info(`Você capturou ${pokemon.name}`);
+    const details: string = await fetchPokedexInfo(pokemon.id);
     console.info(details);
   } catch (error) {
     console.error(error);

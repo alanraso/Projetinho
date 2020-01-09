@@ -1,10 +1,8 @@
-import { Pokemon } from './pokemon';
-
-function wait(seconds: number): Promise<void> {
+function wait(seconds) {
   return new Promise(resolve => setTimeout(() => resolve(), seconds * 1000));
 }
 
-const pokemons: Pokemon[] = [
+const pokemons = [
   {
     id: 16,
     name: 'Pidgey',
@@ -25,12 +23,14 @@ const pokemons: Pokemon[] = [
   },
 ];
 
-export async function observePokemons(onEnd: (pokemons: Pokemon[]) => void) {
+export async function observePokemons(onEnd) {
+  console.log('Observing pokemons...');
   await wait(4);
   onEnd(pokemons);
 }
 
-export async function capturePokemon(id: number, onSuccess: (pokemon: Pokemon) => void, onError: (error: Error) => void) {
+export async function capturePokemon(id, onSuccess, onError) {
+  console.log('Pokeball shaking...');
   await wait(2);
   console.log('Pokeball shaking...');
   await wait(2);
@@ -44,13 +44,13 @@ export async function capturePokemon(id: number, onSuccess: (pokemon: Pokemon) =
   }
 }
 
-const pokedexMessagesMap: { [key: number]: string } = {
+const pokedexMessagesMap = {
   16: 'A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.',
   19: 'Bites anything when it attacks. Small and very quick, it is a common sight in many places.',
   56: 'Extremely quick to anger. It could be docile one moment then thrashing away the next instant.',
 };
 
-export async function fetchPokedexInfo(id: number, onSuccess: (details: string) => void, onError: (error: Error) => void) {
+export async function fetchPokedexInfo(id, onSuccess, onError) {
   await wait(2);
   const pokemon = pokemons.find(pokemon => pokemon.id === id);
 
