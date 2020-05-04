@@ -5,4 +5,8 @@ export class Pokemon {
   move() {
     console.log(this.name + ' moved!');
   }
+
+  attack() {
+    console.log(`${this.name} attacked!`);
+  }
 }
