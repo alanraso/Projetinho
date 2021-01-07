@@ -5,3 +5,4 @@ pokemon.name = 'Pikachu';
 
 pokemon.attack();
 pokemon.move();
+pokemon.givePotion();

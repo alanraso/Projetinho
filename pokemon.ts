@@ -9,4 +9,8 @@ export class Pokemon {
   move() {
     console.log(this.name + " moved!");
   }
+
+  givePotion() {
+    console.log(this.name + " healed 20 HP!");
+  }
 }
