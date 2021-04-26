@@ -5,3 +5,4 @@ pokemon.name = 'Pikachu';
 
 console.log(pokemon);
 pokemon.attack();
+pokemon.heal();
