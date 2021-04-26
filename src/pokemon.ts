@@ -6,7 +6,7 @@ export class Pokemon {
     console.log(`Pokemon ${this.name} attacked!`);
   }
 
-  heal() {
-    console.log('Pokemon recovered HP');
+  heal(quantity: number) {
+    console.log(`Pokemon recovered ${quantity} HP`);
   }
 }
