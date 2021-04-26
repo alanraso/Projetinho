@@ -5,4 +5,8 @@ export class Pokemon {
   attack() {
     console.log(`Pokemon ${this.name} attacked!`);
   }
+
+  heal() {
+    console.log('Pokemon recovered HP');
+  }
 }
