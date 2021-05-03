@@ -6,7 +6,7 @@ export class Pokemon {
     console.log(`${this.name} attacked!`);
   }
 
-  move() {
-    console.log(`${this.name} moved!`);
+  move(meters: number) {
+    console.log(`${this.name} moved ${meters} meters!`);
   }
 }

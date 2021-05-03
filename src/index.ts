@@ -4,4 +4,4 @@ const pokemon = new Pokemon();
 pokemon.name = 'Pikachu';
 
 pokemon.attack();
-pokemon.move();
+pokemon.move(4);
