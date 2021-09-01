@@ -9,4 +9,8 @@ export class Pokemon {
   move() {
     console.log(`${this.name} moved!`);
   }
+
+  scream() {
+    console.log(`${this.name} screamed!`);
+  }
 }
