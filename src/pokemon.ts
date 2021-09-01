@@ -11,6 +11,6 @@ export class Pokemon {
   }
 
   scream() {
-    console.log(`${this.name} screamed!`);
+    console.log(this.name + " screamed!");
   }
 }
