@@ -3,4 +3,5 @@ import { Pokemon } from './pokemon';
 const pokemon = new Pokemon();
 pokemon.name = 'Pikachu';
 
-pokemon.scream();
+pokemon.attack();
+pokemon.walk();
