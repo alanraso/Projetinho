@@ -5,3 +5,5 @@ pokemon.name = 'Pikachu';
 
 pokemon.attack();
 pokemon.walk();
+pokemon.scream();
+pokemon.run();

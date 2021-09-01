@@ -14,7 +14,12 @@ export class Pokemon {
     console.log(this.name + " screamed!");
   }
 
+
   walk() {
     console.log(this.name + " walk!");
+  }
+
+  run() {
+    console.log(this.name + " runned!");
   }
 }
