@@ -1,18 +1,3 @@
-import { gql, ApolloServer } from "apollo-server";
+import { setup } from './setup';
 
-const typeDefs = gql`
-  type Query {
-    hello: String
-  }
-`;
-
-const resolvers = {
-  Query: {
-    hello: () => {
-      return "Hello World!";
-    },
-  },
-};
-
-const app = new ApolloServer({ typeDefs, resolvers });
-app.listen().then(({ url }) => console.log(`Server url: ${url}`));
+setup();
