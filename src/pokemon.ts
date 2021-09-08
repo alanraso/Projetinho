@@ -2,7 +2,7 @@ export class Pokemon {
   name: string;
   hitpoints: number;
 
-  attack() {
-    console.log(`${this.name} attacked!`);
+  attack(move: string) {
+    console.log(`${this.name} used ${move}!`);
   }
 }
