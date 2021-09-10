@@ -5,7 +5,7 @@ describe('Generic test', () => {
 
     // Act
     const query = { query: 'query Hello { hello }' };
-    const res = await request('http://localhost:4000/graphql');
+    // Fazer request
 
     // Assert
     // Vaidar respostas e/ou banco

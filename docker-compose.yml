@@ -7,7 +7,7 @@ localdb:
   environment:
     - POSTGRES_USER=pick_a_username
     - POSTGRES_PASSWORD=pick_a_password
-    - POSTGRES_DB=pick_a_db_name
+    - POSTGRES_DB=banco_local
 
 testdb:
   image: postgres:12.8
@@ -18,4 +18,4 @@ testdb:
   environment:
     - POSTGRES_USER=pick_a_username
     - POSTGRES_PASSWORD=pick_a_password
-    - POSTGRES_DB=pick_a_db_name
+    - POSTGRES_DB=banco_de_testes

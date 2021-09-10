@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "src",
     "target": "es6",
     "module": "commonjs",
     "moduleResolution": "node",
@@ -28,7 +29,8 @@
   "exclude": [
     "node_modules",
     "dist",
-    "tsconfig-paths-dist.js"
+    "tsconfig-paths-dist.js",
+    "src/test/"
   ],
   "compileOnSave": false,
   "buildOnSave": false,
