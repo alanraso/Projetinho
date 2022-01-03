@@ -4,6 +4,6 @@ export class Pokemon {
   damage: number;
   
   attack() {
-    console.log(`${this.name} has attacked!`);
+    console.log(`${this.name} has attacked! - ${this.damage}`);
   }
 }
