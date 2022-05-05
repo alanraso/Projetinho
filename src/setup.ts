@@ -1,12 +1,13 @@
-import { createConnection } from "typeorm";
+import { DataSource } from "typeorm";
 import { ApolloServer, gql } from 'apollo-server';
 
+export const datasource = new DataSource({
+  type: "postgres",
+  url: process.env.DATABASE_URL,
+});
+
 async function setupDatabase() {
-  await createConnection({
-    type: "postgres",
-    url: process.env.DATABASE_URL,
-  });
-  console.log("Database connected!");
+  await datasource.initialize();
 }
 
 async function setupServer() {
