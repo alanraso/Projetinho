@@ -1,15 +1,4 @@
 services:
-  testdb:
-    image: postgres:14.2
-    ports:
-      - "5433:5432"
-    volumes:
-      - ./db/dumps:/app-db-dumps
-    environment:
-      - POSTGRES_USER=pick_a_username
-      - POSTGRES_PASSWORD=pick_a_password
-      - POSTGRES_DB=banco_de_testes
-
   localdb:
     image: postgres:14.2
     ports:
@@ -17,6 +6,18 @@ services:
     volumes:
       - ./db/dumps:/app-db-dumps
     environment:
-      - POSTGRES_USER=pick_a_username
-      - POSTGRES_PASSWORD=pick_a_password
-      - POSTGRES_DB=banco_local
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=local_db
+
+  testdb:
+    image: postgres:14.2
+    ports:
+      - "5433:5432"
+    volumes:
+      - ./db/dumps:/app-db-dumps
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=test_db
+

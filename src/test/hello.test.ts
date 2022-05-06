@@ -1,13 +1,20 @@
-describe('Generic test', () => {
-  it('should query Hello', async () => {
-    // Arrange
-    // Popular banco, por exemplo
+import axios from 'axios';
+import { expect } from 'chai';
 
-    // Act
-    const query = { query: 'query Hello { hello }' };
-    // Fazer request
+describe('Hello Query', () => {
+  it('should return hello message', async () => {
+    const result = await axios.post('http://localhost:4001/graphql', {
+      query: `
+        query Hello {
+          hello
+        }
+      `,
+    });
 
-    // Assert
-    // Vaidar respostas e/ou banco
+    expect(result.data).to.be.deep.eq({
+      data: {
+        hello: 'Hello World!',
+      }
+    });
   });
 });

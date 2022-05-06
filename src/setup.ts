@@ -1,13 +1,15 @@
+import { ApolloServer, gql } from "apollo-server";
 import { DataSource } from "typeorm";
-import { ApolloServer, gql } from 'apollo-server';
 
-export const datasource = new DataSource({
-  type: "postgres",
-  url: process.env.DATABASE_URL,
-});
+async function connectedDb() {
+  console.log(process.env.DATABASE_URL);
+  const datasource = new DataSource({
+    type: "postgres",
+    url: process.env.DATABASE_URL,
+  });
 
-async function setupDatabase() {
   await datasource.initialize();
+  console.info("DB connected!");
 }
 
 async function setupServer() {
@@ -26,11 +28,11 @@ async function setupServer() {
   };
 
   const app = new ApolloServer({ typeDefs, resolvers });
-  const { url } = await app.listen({ port: process.env.PORT });
-  console.log('Server running on:', url);
+  const { url } = await app.listen({ port: process.env.PORT })
+  console.info(`Server running on: ${url}`);
 }
 
 export async function setup() {
-  await setupDatabase();
+  await connectedDb();
   await setupServer();
 }

@@ -1,10 +1,9 @@
 import { setup } from '../setup';
-import * as dotenv from 'dotenv';
+import { config } from 'dotenv';
 
 before(async () => {
-  dotenv.config({ path: `${__dirname}/../../test.env` });
+  config({ path: `${process.cwd()}/test.env` });
   await setup();
-  console.log('Test: setup done!');
 });
 
 require('./hello.test');
