@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es6",
+    "target": "es2021",
     "module": "commonjs",
     "moduleResolution": "node",
     "isolatedModules": false,
@@ -10,9 +10,10 @@
     "noImplicitAny": false,
     "noImplicitUseStrict": false,
     "removeComments": true,
+    "resolveJsonModule": true,
     "noLib": false,
     "lib": [
-      "es2017",
+      "es2021",
       "dom",
       "esnext.asynciterable"
     ],

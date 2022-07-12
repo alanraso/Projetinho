@@ -1,0 +1,3629 @@
+[
+  {
+    "officialKilometer": 163,
+    "coordinates": {
+      "latitude": -22.81992,
+      "longitude": -43.32028
+    },
+    "absoluteKilometer": 0,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 164,
+    "coordinates": {
+      "latitude": -22.81443,
+      "longitude": -43.32773
+    },
+    "absoluteKilometer": 1,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 165,
+    "coordinates": {
+      "latitude": -22.80983,
+      "longitude": -43.33603
+    },
+    "absoluteKilometer": 2,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 166,
+    "coordinates": {
+      "latitude": -22.80523,
+      "longitude": -43.34439
+    },
+    "absoluteKilometer": 3,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 167,
+    "coordinates": {
+      "latitude": -22.8006,
+      "longitude": -43.35284
+    },
+    "absoluteKilometer": 4,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 168,
+    "coordinates": {
+      "latitude": -22.79587,
+      "longitude": -43.36118
+    },
+    "absoluteKilometer": 5,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 169,
+    "coordinates": {
+      "latitude": -22.79111,
+      "longitude": -43.36953
+    },
+    "absoluteKilometer": 6,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 170,
+    "coordinates": {
+      "latitude": -22.78645,
+      "longitude": -43.37774
+    },
+    "absoluteKilometer": 7,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 171,
+    "coordinates": {
+      "latitude": -22.78251,
+      "longitude": -43.38627
+    },
+    "absoluteKilometer": 8,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 172,
+    "coordinates": {
+      "latitude": -22.77897,
+      "longitude": -43.39513
+    },
+    "absoluteKilometer": 9,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 173,
+    "coordinates": {
+      "latitude": -22.77345,
+      "longitude": -43.40304
+    },
+    "absoluteKilometer": 10,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 174,
+    "coordinates": {
+      "latitude": -22.76829,
+      "longitude": -43.41041
+    },
+    "absoluteKilometer": 11,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 175,
+    "coordinates": {
+      "latitude": -22.7637,
+      "longitude": -43.41867
+    },
+    "absoluteKilometer": 12,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 176,
+    "coordinates": {
+      "latitude": -22.75925,
+      "longitude": -43.42776
+    },
+    "absoluteKilometer": 13,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 177,
+    "coordinates": {
+      "latitude": -22.75391,
+      "longitude": -43.43528
+    },
+    "absoluteKilometer": 14,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 178,
+    "coordinates": {
+      "latitude": -22.74832,
+      "longitude": -43.4433
+    },
+    "absoluteKilometer": 15,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 179,
+    "coordinates": {
+      "latitude": -22.74305,
+      "longitude": -43.45084
+    },
+    "absoluteKilometer": 16,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 180,
+    "coordinates": {
+      "latitude": -22.73984,
+      "longitude": -43.45962
+    },
+    "absoluteKilometer": 17,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 181,
+    "coordinates": {
+      "latitude": -22.73904,
+      "longitude": -43.4699
+    },
+    "absoluteKilometer": 18,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 182,
+    "coordinates": {
+      "latitude": -22.73826,
+      "longitude": -43.47959
+    },
+    "absoluteKilometer": 19,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 183,
+    "coordinates": {
+      "latitude": -22.73749,
+      "longitude": -43.48926
+    },
+    "absoluteKilometer": 20,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 184,
+    "coordinates": {
+      "latitude": -22.74026,
+      "longitude": -43.4984
+    },
+    "absoluteKilometer": 21,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 185,
+    "coordinates": {
+      "latitude": -22.74388,
+      "longitude": -43.50735
+    },
+    "absoluteKilometer": 22,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 186,
+    "coordinates": {
+      "latitude": -22.7427,
+      "longitude": -43.5168
+    },
+    "absoluteKilometer": 23,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 187,
+    "coordinates": {
+      "latitude": -22.74022,
+      "longitude": -43.52613
+    },
+    "absoluteKilometer": 24,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 188,
+    "coordinates": {
+      "latitude": -22.73773,
+      "longitude": -43.5355
+    },
+    "absoluteKilometer": 25,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 189,
+    "coordinates": {
+      "latitude": -22.73582,
+      "longitude": -43.54504
+    },
+    "absoluteKilometer": 26,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 190,
+    "coordinates": {
+      "latitude": -22.73472,
+      "longitude": -43.55456
+    },
+    "absoluteKilometer": 27,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 191,
+    "coordinates": {
+      "latitude": -22.72985,
+      "longitude": -43.56265
+    },
+    "absoluteKilometer": 28,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 192,
+    "coordinates": {
+      "latitude": -22.72986,
+      "longitude": -43.57236
+    },
+    "absoluteKilometer": 29,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 193,
+    "coordinates": {
+      "latitude": -22.72904,
+      "longitude": -43.58206
+    },
+    "absoluteKilometer": 30,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 194,
+    "coordinates": {
+      "latitude": -22.72995,
+      "longitude": -43.59168
+    },
+    "absoluteKilometer": 31,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 195,
+    "coordinates": {
+      "latitude": -22.73143,
+      "longitude": -43.60123
+    },
+    "absoluteKilometer": 32,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 196,
+    "coordinates": {
+      "latitude": -22.72975,
+      "longitude": -43.61073
+    },
+    "absoluteKilometer": 33,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 197,
+    "coordinates": {
+      "latitude": -22.73158,
+      "longitude": -43.62006
+    },
+    "absoluteKilometer": 34,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 198,
+    "coordinates": {
+      "latitude": -22.72931,
+      "longitude": -43.62917
+    },
+    "absoluteKilometer": 35,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 199,
+    "coordinates": {
+      "latitude": -22.72785,
+      "longitude": -43.6391
+    },
+    "absoluteKilometer": 36,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 200,
+    "coordinates": {
+      "latitude": -22.72641,
+      "longitude": -43.64869
+    },
+    "absoluteKilometer": 37,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 201,
+    "coordinates": {
+      "latitude": -22.72498,
+      "longitude": -43.65833
+    },
+    "absoluteKilometer": 38,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 202,
+    "coordinates": {
+      "latitude": -22.72354,
+      "longitude": -43.66793
+    },
+    "absoluteKilometer": 39,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 203,
+    "coordinates": {
+      "latitude": -22.72189,
+      "longitude": -43.67758
+    },
+    "absoluteKilometer": 40,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 204,
+    "coordinates": {
+      "latitude": -22.72035,
+      "longitude": -43.68707
+    },
+    "absoluteKilometer": 41,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 205,
+    "coordinates": {
+      "latitude": -22.719,
+      "longitude": -43.69673
+    },
+    "absoluteKilometer": 42,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 206,
+    "coordinates": {
+      "latitude": -22.71769,
+      "longitude": -43.70633
+    },
+    "absoluteKilometer": 43,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 207,
+    "coordinates": {
+      "latitude": -22.71638,
+      "longitude": -43.71596
+    },
+    "absoluteKilometer": 44,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 208,
+    "coordinates": {
+      "latitude": -22.71493,
+      "longitude": -43.72554
+    },
+    "absoluteKilometer": 45,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 209,
+    "coordinates": {
+      "latitude": -22.71266,
+      "longitude": -43.73466
+    },
+    "absoluteKilometer": 46,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 210,
+    "coordinates": {
+      "latitude": -22.70527,
+      "longitude": -43.74009
+    },
+    "absoluteKilometer": 47,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 211,
+    "coordinates": {
+      "latitude": -22.70161,
+      "longitude": -43.74894
+    },
+    "absoluteKilometer": 48,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 212,
+    "coordinates": {
+      "latitude": -22.70089,
+      "longitude": -43.75807
+    },
+    "absoluteKilometer": 49,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 213,
+    "coordinates": {
+      "latitude": -22.69728,
+      "longitude": -43.76662
+    },
+    "absoluteKilometer": 50,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 214,
+    "coordinates": {
+      "latitude": -22.69315,
+      "longitude": -43.77456
+    },
+    "absoluteKilometer": 51,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 215,
+    "coordinates": {
+      "latitude": -22.69255,
+      "longitude": -43.78346
+    },
+    "absoluteKilometer": 52,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 216,
+    "coordinates": {
+      "latitude": -22.68922,
+      "longitude": -43.79259
+    },
+    "absoluteKilometer": 53,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 217,
+    "coordinates": {
+      "latitude": -22.6896,
+      "longitude": -43.80218
+    },
+    "absoluteKilometer": 54,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 218,
+    "coordinates": {
+      "latitude": -22.68662,
+      "longitude": -43.81132
+    },
+    "absoluteKilometer": 55,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 219,
+    "coordinates": {
+      "latitude": -22.67898,
+      "longitude": -43.81486
+    },
+    "absoluteKilometer": 56,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 220,
+    "coordinates": {
+      "latitude": -22.67884,
+      "longitude": -43.82246
+    },
+    "absoluteKilometer": 57,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 221,
+    "coordinates": {
+      "latitude": -22.68108,
+      "longitude": -43.82886
+    },
+    "absoluteKilometer": 58,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 222,
+    "coordinates": {
+      "latitude": -22.67941,
+      "longitude": -43.83502
+    },
+    "absoluteKilometer": 59,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 223,
+    "coordinates": {
+      "latitude": -22.67964,
+      "longitude": -43.83695
+    },
+    "absoluteKilometer": 60,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 224,
+    "coordinates": {
+      "latitude": -22.67303,
+      "longitude": -43.82967
+    },
+    "absoluteKilometer": 61,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 225,
+    "coordinates": {
+      "latitude": -22.65218,
+      "longitude": -43.83134
+    },
+    "absoluteKilometer": 62,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 226,
+    "coordinates": {
+      "latitude": -22.65725,
+      "longitude": -43.83781
+    },
+    "absoluteKilometer": 63,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 227,
+    "coordinates": {
+      "latitude": -22.66363,
+      "longitude": -43.84086
+    },
+    "absoluteKilometer": 64,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 228,
+    "coordinates": {
+      "latitude": -22.66625,
+      "longitude": -43.8467
+    },
+    "absoluteKilometer": 65,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 229,
+    "coordinates": {
+      "latitude": -22.66937,
+      "longitude": -43.85491
+    },
+    "absoluteKilometer": 66,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 230,
+    "coordinates": {
+      "latitude": -22.66561,
+      "longitude": -43.86345
+    },
+    "absoluteKilometer": 67,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 231,
+    "coordinates": {
+      "latitude": -22.66471,
+      "longitude": -43.8727
+    },
+    "absoluteKilometer": 68,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 232,
+    "coordinates": {
+      "latitude": -22.66493,
+      "longitude": -43.88226
+    },
+    "absoluteKilometer": 69,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 233,
+    "coordinates": {
+      "latitude": -22.6589,
+      "longitude": -43.88903
+    },
+    "absoluteKilometer": 70,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 234,
+    "coordinates": {
+      "latitude": -22.65073,
+      "longitude": -43.89304
+    },
+    "absoluteKilometer": 71,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 235,
+    "coordinates": {
+      "latitude": -22.64277,
+      "longitude": -43.89742
+    },
+    "absoluteKilometer": 72,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 236,
+    "coordinates": {
+      "latitude": -22.63515,
+      "longitude": -43.90237
+    },
+    "absoluteKilometer": 73,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 237,
+    "coordinates": {
+      "latitude": -22.63006,
+      "longitude": -43.91029
+    },
+    "absoluteKilometer": 74,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 238,
+    "coordinates": {
+      "latitude": -22.62437,
+      "longitude": -43.91777
+    },
+    "absoluteKilometer": 75,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 239,
+    "coordinates": {
+      "latitude": -22.62017,
+      "longitude": -43.926
+    },
+    "absoluteKilometer": 76,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 240,
+    "coordinates": {
+      "latitude": -22.61407,
+      "longitude": -43.93164
+    },
+    "absoluteKilometer": 77,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 241,
+    "coordinates": {
+      "latitude": -22.60649,
+      "longitude": -43.93493
+    },
+    "absoluteKilometer": 78,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 242,
+    "coordinates": {
+      "latitude": -22.59969,
+      "longitude": -43.9403
+    },
+    "absoluteKilometer": 79,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 243,
+    "coordinates": {
+      "latitude": -22.59954,
+      "longitude": -43.94998
+    },
+    "absoluteKilometer": 80,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 244,
+    "coordinates": {
+      "latitude": -22.5929,
+      "longitude": -43.95582
+    },
+    "absoluteKilometer": 81,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 245,
+    "coordinates": {
+      "latitude": -22.58474,
+      "longitude": -43.95952
+    },
+    "absoluteKilometer": 82,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 246,
+    "coordinates": {
+      "latitude": -22.58266,
+      "longitude": -43.96883
+    },
+    "absoluteKilometer": 83,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 247,
+    "coordinates": {
+      "latitude": -22.58091,
+      "longitude": -43.97807
+    },
+    "absoluteKilometer": 84,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 248,
+    "coordinates": {
+      "latitude": -22.57754,
+      "longitude": -43.98578
+    },
+    "absoluteKilometer": 85,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 249,
+    "coordinates": {
+      "latitude": -22.58128,
+      "longitude": -43.99453
+    },
+    "absoluteKilometer": 86,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 250,
+    "coordinates": {
+      "latitude": -22.58429,
+      "longitude": -44.00447
+    },
+    "absoluteKilometer": 87,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 251,
+    "coordinates": {
+      "latitude": -22.58617,
+      "longitude": -44.01386
+    },
+    "absoluteKilometer": 88,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 252,
+    "coordinates": {
+      "latitude": -22.58132,
+      "longitude": -44.02137
+    },
+    "absoluteKilometer": 89,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 253,
+    "coordinates": {
+      "latitude": -22.58189,
+      "longitude": -44.03092
+    },
+    "absoluteKilometer": 90,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 254,
+    "coordinates": {
+      "latitude": -22.58251,
+      "longitude": -44.04054
+    },
+    "absoluteKilometer": 91,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 255,
+    "coordinates": {
+      "latitude": -22.58454,
+      "longitude": -44.04997
+    },
+    "absoluteKilometer": 92,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 256,
+    "coordinates": {
+      "latitude": -22.58731,
+      "longitude": -44.05913
+    },
+    "absoluteKilometer": 93,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 257,
+    "coordinates": {
+      "latitude": -22.59186,
+      "longitude": -44.06749
+    },
+    "absoluteKilometer": 94,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 258,
+    "coordinates": {
+      "latitude": -22.59214,
+      "longitude": -44.07693
+    },
+    "absoluteKilometer": 95,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 259,
+    "coordinates": {
+      "latitude": -22.58784,
+      "longitude": -44.0853
+    },
+    "absoluteKilometer": 96,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 260,
+    "coordinates": {
+      "latitude": -22.58835,
+      "longitude": -44.09495
+    },
+    "absoluteKilometer": 97,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 261,
+    "coordinates": {
+      "latitude": -22.58962,
+      "longitude": -44.10454
+    },
+    "absoluteKilometer": 98,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 262,
+    "coordinates": {
+      "latitude": -22.58254,
+      "longitude": -44.1099
+    },
+    "absoluteKilometer": 99,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 263,
+    "coordinates": {
+      "latitude": -22.57513,
+      "longitude": -44.11526
+    },
+    "absoluteKilometer": 100,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 264,
+    "coordinates": {
+      "latitude": -22.56916,
+      "longitude": -44.1201
+    },
+    "absoluteKilometer": 101,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 265,
+    "coordinates": {
+      "latitude": -22.56079,
+      "longitude": -44.12202
+    },
+    "absoluteKilometer": 102,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 266,
+    "coordinates": {
+      "latitude": -22.5559,
+      "longitude": -44.12993
+    },
+    "absoluteKilometer": 103,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 267,
+    "coordinates": {
+      "latitude": -22.56079,
+      "longitude": -44.13801
+    },
+    "absoluteKilometer": 104,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 268,
+    "coordinates": {
+      "latitude": -22.56175,
+      "longitude": -44.14727
+    },
+    "absoluteKilometer": 105,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 269,
+    "coordinates": {
+      "latitude": -22.56161,
+      "longitude": -44.15636
+    },
+    "absoluteKilometer": 106,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 270,
+    "coordinates": {
+      "latitude": -22.56146,
+      "longitude": -44.16523
+    },
+    "absoluteKilometer": 107,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 271,
+    "coordinates": {
+      "latitude": -22.55929,
+      "longitude": -44.17261
+    },
+    "absoluteKilometer": 108,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 272,
+    "coordinates": {
+      "latitude": -22.5526,
+      "longitude": -44.17765
+    },
+    "absoluteKilometer": 109,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 273,
+    "coordinates": {
+      "latitude": -22.54737,
+      "longitude": -44.18345
+    },
+    "absoluteKilometer": 110,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 274,
+    "coordinates": {
+      "latitude": -22.54235,
+      "longitude": -44.19081
+    },
+    "absoluteKilometer": 111,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 275,
+    "coordinates": {
+      "latitude": -22.53475,
+      "longitude": -44.19605
+    },
+    "absoluteKilometer": 112,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 276,
+    "coordinates": {
+      "latitude": -22.52661,
+      "longitude": -44.19763
+    },
+    "absoluteKilometer": 113,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 277,
+    "coordinates": {
+      "latitude": -22.52042,
+      "longitude": -44.20463
+    },
+    "absoluteKilometer": 114,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 278,
+    "coordinates": {
+      "latitude": -22.51362,
+      "longitude": -44.21059
+    },
+    "absoluteKilometer": 115,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 279,
+    "coordinates": {
+      "latitude": -22.5096,
+      "longitude": -44.2186
+    },
+    "absoluteKilometer": 116,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 280,
+    "coordinates": {
+      "latitude": -22.50393,
+      "longitude": -44.2261
+    },
+    "absoluteKilometer": 117,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 281,
+    "coordinates": {
+      "latitude": -22.49832,
+      "longitude": -44.23354
+    },
+    "absoluteKilometer": 118,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 282,
+    "coordinates": {
+      "latitude": -22.49361,
+      "longitude": -44.24164
+    },
+    "absoluteKilometer": 119,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 283,
+    "coordinates": {
+      "latitude": -22.48677,
+      "longitude": -44.24772
+    },
+    "absoluteKilometer": 120,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 284,
+    "coordinates": {
+      "latitude": -22.48481,
+      "longitude": -44.25649
+    },
+    "absoluteKilometer": 121,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 285,
+    "coordinates": {
+      "latitude": -22.47812,
+      "longitude": -44.26248
+    },
+    "absoluteKilometer": 122,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 286,
+    "coordinates": {
+      "latitude": -22.47432,
+      "longitude": -44.27099
+    },
+    "absoluteKilometer": 123,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 287,
+    "coordinates": {
+      "latitude": -22.47019,
+      "longitude": -44.27926
+    },
+    "absoluteKilometer": 124,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 288,
+    "coordinates": {
+      "latitude": -22.46408,
+      "longitude": -44.28622
+    },
+    "absoluteKilometer": 125,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 289,
+    "coordinates": {
+      "latitude": -22.45698,
+      "longitude": -44.2918
+    },
+    "absoluteKilometer": 126,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 290,
+    "coordinates": {
+      "latitude": -22.45403,
+      "longitude": -44.30008
+    },
+    "absoluteKilometer": 127,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 291,
+    "coordinates": {
+      "latitude": -22.45095,
+      "longitude": -44.30874
+    },
+    "absoluteKilometer": 128,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 292,
+    "coordinates": {
+      "latitude": -22.44928,
+      "longitude": -44.31817
+    },
+    "absoluteKilometer": 129,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 293,
+    "coordinates": {
+      "latitude": -22.44974,
+      "longitude": -44.3281
+    },
+    "absoluteKilometer": 130,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 294,
+    "coordinates": {
+      "latitude": -22.45058,
+      "longitude": -44.33752
+    },
+    "absoluteKilometer": 131,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 295,
+    "coordinates": {
+      "latitude": -22.45143,
+      "longitude": -44.34721
+    },
+    "absoluteKilometer": 132,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 296,
+    "coordinates": {
+      "latitude": -22.45231,
+      "longitude": -44.35685
+    },
+    "absoluteKilometer": 133,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 297,
+    "coordinates": {
+      "latitude": -22.45312,
+      "longitude": -44.36649
+    },
+    "absoluteKilometer": 134,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 298,
+    "coordinates": {
+      "latitude": -22.45396,
+      "longitude": -44.37614
+    },
+    "absoluteKilometer": 135,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 299,
+    "coordinates": {
+      "latitude": -22.45482,
+      "longitude": -44.38578
+    },
+    "absoluteKilometer": 136,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 300,
+    "coordinates": {
+      "latitude": -22.45563,
+      "longitude": -44.39549
+    },
+    "absoluteKilometer": 137,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 301,
+    "coordinates": {
+      "latitude": -22.45648,
+      "longitude": -44.40512
+    },
+    "absoluteKilometer": 138,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 302,
+    "coordinates": {
+      "latitude": -22.45731,
+      "longitude": -44.41484
+    },
+    "absoluteKilometer": 139,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 303,
+    "coordinates": {
+      "latitude": -22.45819,
+      "longitude": -44.42445
+    },
+    "absoluteKilometer": 140,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 304,
+    "coordinates": {
+      "latitude": -22.45894,
+      "longitude": -44.4342
+    },
+    "absoluteKilometer": 141,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 305,
+    "coordinates": {
+      "latitude": -22.46089,
+      "longitude": -44.44352
+    },
+    "absoluteKilometer": 142,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 306,
+    "coordinates": {
+      "latitude": -22.46051,
+      "longitude": -44.4531
+    },
+    "absoluteKilometer": 143,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 307,
+    "coordinates": {
+      "latitude": -22.45987,
+      "longitude": -44.46278
+    },
+    "absoluteKilometer": 144,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 308,
+    "coordinates": {
+      "latitude": -22.46032,
+      "longitude": -44.47238
+    },
+    "absoluteKilometer": 145,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 309,
+    "coordinates": {
+      "latitude": -22.46292,
+      "longitude": -44.48175
+    },
+    "absoluteKilometer": 146,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 310,
+    "coordinates": {
+      "latitude": -22.46546,
+      "longitude": -44.4911
+    },
+    "absoluteKilometer": 147,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 311,
+    "coordinates": {
+      "latitude": -22.46696,
+      "longitude": -44.50064
+    },
+    "absoluteKilometer": 148,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 312,
+    "coordinates": {
+      "latitude": -22.46784,
+      "longitude": -44.51034
+    },
+    "absoluteKilometer": 149,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 313,
+    "coordinates": {
+      "latitude": -22.4712,
+      "longitude": -44.51926
+    },
+    "absoluteKilometer": 150,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 314,
+    "coordinates": {
+      "latitude": -22.47639,
+      "longitude": -44.52716
+    },
+    "absoluteKilometer": 151,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 315,
+    "coordinates": {
+      "latitude": -22.48076,
+      "longitude": -44.53557
+    },
+    "absoluteKilometer": 152,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 316,
+    "coordinates": {
+      "latitude": -22.48386,
+      "longitude": -44.54466
+    },
+    "absoluteKilometer": 153,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 317,
+    "coordinates": {
+      "latitude": -22.48872,
+      "longitude": -44.55282
+    },
+    "absoluteKilometer": 154,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 318,
+    "coordinates": {
+      "latitude": -22.491,
+      "longitude": -44.56197
+    },
+    "absoluteKilometer": 155,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 319,
+    "coordinates": {
+      "latitude": -22.49521,
+      "longitude": -44.57048
+    },
+    "absoluteKilometer": 156,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 320,
+    "coordinates": {
+      "latitude": -22.49884,
+      "longitude": -44.57934
+    },
+    "absoluteKilometer": 157,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 321,
+    "coordinates": {
+      "latitude": -22.50147,
+      "longitude": -44.58815
+    },
+    "absoluteKilometer": 158,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 322,
+    "coordinates": {
+      "latitude": -22.50468,
+      "longitude": -44.59692
+    },
+    "absoluteKilometer": 159,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 323,
+    "coordinates": {
+      "latitude": -22.50454,
+      "longitude": -44.60657
+    },
+    "absoluteKilometer": 160,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 324,
+    "coordinates": {
+      "latitude": -22.50437,
+      "longitude": -44.61647
+    },
+    "absoluteKilometer": 161,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 325,
+    "coordinates": {
+      "latitude": -22.50409,
+      "longitude": -44.62587
+    },
+    "absoluteKilometer": 162,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 326,
+    "coordinates": {
+      "latitude": -22.50068,
+      "longitude": -44.63498
+    },
+    "absoluteKilometer": 163,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 327,
+    "coordinates": {
+      "latitude": -22.49675,
+      "longitude": -44.64367
+    },
+    "absoluteKilometer": 164,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 328,
+    "coordinates": {
+      "latitude": -22.49224,
+      "longitude": -44.65197
+    },
+    "absoluteKilometer": 165,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 329,
+    "coordinates": {
+      "latitude": -22.49584,
+      "longitude": -44.66026
+    },
+    "absoluteKilometer": 166,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 330,
+    "coordinates": {
+      "latitude": -22.50125,
+      "longitude": -44.66763
+    },
+    "absoluteKilometer": 167,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 331,
+    "coordinates": {
+      "latitude": -22.50511,
+      "longitude": -44.6764
+    },
+    "absoluteKilometer": 168,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 332,
+    "coordinates": {
+      "latitude": -22.50868,
+      "longitude": -44.68534
+    },
+    "absoluteKilometer": 169,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 333,
+    "coordinates": {
+      "latitude": -22.51163,
+      "longitude": -44.69449
+    },
+    "absoluteKilometer": 170,
+    "state": "RJ"
+  },
+  {
+    "officialKilometer": 0,
+    "coordinates": {
+      "latitude": -22.51401,
+      "longitude": -44.70009
+    },
+    "absoluteKilometer": 171,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 1,
+    "coordinates": {
+      "latitude": -22.51871,
+      "longitude": -44.70844
+    },
+    "absoluteKilometer": 172,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 2,
+    "coordinates": {
+      "latitude": -22.52229,
+      "longitude": -44.71723
+    },
+    "absoluteKilometer": 173,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 3,
+    "coordinates": {
+      "latitude": -22.52371,
+      "longitude": -44.72654
+    },
+    "absoluteKilometer": 174,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 4,
+    "coordinates": {
+      "latitude": -22.52536,
+      "longitude": -44.736
+    },
+    "absoluteKilometer": 175,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 5,
+    "coordinates": {
+      "latitude": -22.52949,
+      "longitude": -44.74464
+    },
+    "absoluteKilometer": 176,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 6,
+    "coordinates": {
+      "latitude": -22.53172,
+      "longitude": -44.75407
+    },
+    "absoluteKilometer": 177,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 7,
+    "coordinates": {
+      "latitude": -22.53565,
+      "longitude": -44.76268
+    },
+    "absoluteKilometer": 178,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 8,
+    "coordinates": {
+      "latitude": -22.53656,
+      "longitude": -44.77218
+    },
+    "absoluteKilometer": 179,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 9,
+    "coordinates": {
+      "latitude": -22.54134,
+      "longitude": -44.78028
+    },
+    "absoluteKilometer": 180,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 10,
+    "coordinates": {
+      "latitude": -22.54418,
+      "longitude": -44.78899
+    },
+    "absoluteKilometer": 181,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 11,
+    "coordinates": {
+      "latitude": -22.54155,
+      "longitude": -44.79832
+    },
+    "absoluteKilometer": 182,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 12,
+    "coordinates": {
+      "latitude": -22.54742,
+      "longitude": -44.80511
+    },
+    "absoluteKilometer": 183,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 13,
+    "coordinates": {
+      "latitude": -22.55212,
+      "longitude": -44.81345
+    },
+    "absoluteKilometer": 184,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 14,
+    "coordinates": {
+      "latitude": -22.55735,
+      "longitude": -44.82133
+    },
+    "absoluteKilometer": 185,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 15,
+    "coordinates": {
+      "latitude": -22.56019,
+      "longitude": -44.83055
+    },
+    "absoluteKilometer": 186,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 16,
+    "coordinates": {
+      "latitude": -22.55869,
+      "longitude": -44.83914
+    },
+    "absoluteKilometer": 187,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 17,
+    "coordinates": {
+      "latitude": -22.55741,
+      "longitude": -44.8487
+    },
+    "absoluteKilometer": 188,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 18,
+    "coordinates": {
+      "latitude": -22.55899,
+      "longitude": -44.85771
+    },
+    "absoluteKilometer": 189,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 19,
+    "coordinates": {
+      "latitude": -22.56385,
+      "longitude": -44.86526
+    },
+    "absoluteKilometer": 190,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 20,
+    "coordinates": {
+      "latitude": -22.57272,
+      "longitude": -44.86516
+    },
+    "absoluteKilometer": 191,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 21,
+    "coordinates": {
+      "latitude": -22.57668,
+      "longitude": -44.87373
+    },
+    "absoluteKilometer": 192,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 22,
+    "coordinates": {
+      "latitude": -22.58335,
+      "longitude": -44.87781
+    },
+    "absoluteKilometer": 193,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 23,
+    "coordinates": {
+      "latitude": -22.5892,
+      "longitude": -44.88505
+    },
+    "absoluteKilometer": 194,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 24,
+    "coordinates": {
+      "latitude": -22.5978,
+      "longitude": -44.8878
+    },
+    "absoluteKilometer": 195,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 25,
+    "coordinates": {
+      "latitude": -22.60456,
+      "longitude": -44.89373
+    },
+    "absoluteKilometer": 196,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 26,
+    "coordinates": {
+      "latitude": -22.61197,
+      "longitude": -44.89868
+    },
+    "absoluteKilometer": 197,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 27,
+    "coordinates": {
+      "latitude": -22.61819,
+      "longitude": -44.90591
+    },
+    "absoluteKilometer": 198,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 28,
+    "coordinates": {
+      "latitude": -22.62424,
+      "longitude": -44.9118
+    },
+    "absoluteKilometer": 199,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 29,
+    "coordinates": {
+      "latitude": -22.62724,
+      "longitude": -44.92116
+    },
+    "absoluteKilometer": 200,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 30,
+    "coordinates": {
+      "latitude": -22.63242,
+      "longitude": -44.92907
+    },
+    "absoluteKilometer": 201,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 31,
+    "coordinates": {
+      "latitude": -22.63743,
+      "longitude": -44.93693
+    },
+    "absoluteKilometer": 202,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 32,
+    "coordinates": {
+      "latitude": -22.6408,
+      "longitude": -44.94535
+    },
+    "absoluteKilometer": 203,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 33,
+    "coordinates": {
+      "latitude": -22.64688,
+      "longitude": -44.95247
+    },
+    "absoluteKilometer": 204,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 34,
+    "coordinates": {
+      "latitude": -22.65321,
+      "longitude": -44.95859
+    },
+    "absoluteKilometer": 205,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 35,
+    "coordinates": {
+      "latitude": -22.65854,
+      "longitude": -44.96619
+    },
+    "absoluteKilometer": 206,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 36,
+    "coordinates": {
+      "latitude": -22.66074,
+      "longitude": -44.97549
+    },
+    "absoluteKilometer": 207,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 37,
+    "coordinates": {
+      "latitude": -22.66459,
+      "longitude": -44.9841
+    },
+    "absoluteKilometer": 208,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 38,
+    "coordinates": {
+      "latitude": -22.6701,
+      "longitude": -44.99171
+    },
+    "absoluteKilometer": 209,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 39,
+    "coordinates": {
+      "latitude": -22.67516,
+      "longitude": -44.99927
+    },
+    "absoluteKilometer": 210,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 40,
+    "coordinates": {
+      "latitude": -22.68064,
+      "longitude": -45.00695
+    },
+    "absoluteKilometer": 211,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 41,
+    "coordinates": {
+      "latitude": -22.68616,
+      "longitude": -45.01472
+    },
+    "absoluteKilometer": 212,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 42,
+    "coordinates": {
+      "latitude": -22.69165,
+      "longitude": -45.02231
+    },
+    "absoluteKilometer": 213,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 43,
+    "coordinates": {
+      "latitude": -22.69717,
+      "longitude": -45.03009
+    },
+    "absoluteKilometer": 214,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 44,
+    "coordinates": {
+      "latitude": -22.70266,
+      "longitude": -45.03783
+    },
+    "absoluteKilometer": 215,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 45,
+    "coordinates": {
+      "latitude": -22.70816,
+      "longitude": -45.04551
+    },
+    "absoluteKilometer": 216,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 46,
+    "coordinates": {
+      "latitude": -22.71356,
+      "longitude": -45.05308
+    },
+    "absoluteKilometer": 217,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 47,
+    "coordinates": {
+      "latitude": -22.71917,
+      "longitude": -45.06094
+    },
+    "absoluteKilometer": 218,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 48,
+    "coordinates": {
+      "latitude": -22.72469,
+      "longitude": -45.06867
+    },
+    "absoluteKilometer": 219,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 49,
+    "coordinates": {
+      "latitude": -22.7302,
+      "longitude": -45.07635
+    },
+    "absoluteKilometer": 220,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 50,
+    "coordinates": {
+      "latitude": -22.73573,
+      "longitude": -45.08409
+    },
+    "absoluteKilometer": 221,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 51,
+    "coordinates": {
+      "latitude": -22.74124,
+      "longitude": -45.0918
+    },
+    "absoluteKilometer": 222,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 52,
+    "coordinates": {
+      "latitude": -22.74673,
+      "longitude": -45.09948
+    },
+    "absoluteKilometer": 223,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 53,
+    "coordinates": {
+      "latitude": -22.75224,
+      "longitude": -45.10719
+    },
+    "absoluteKilometer": 224,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 54,
+    "coordinates": {
+      "latitude": -22.75779,
+      "longitude": -45.11497
+    },
+    "absoluteKilometer": 225,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 55,
+    "coordinates": {
+      "latitude": -22.76334,
+      "longitude": -45.12264
+    },
+    "absoluteKilometer": 226,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 56,
+    "coordinates": {
+      "latitude": -22.76854,
+      "longitude": -45.12993
+    },
+    "absoluteKilometer": 227,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 57,
+    "coordinates": {
+      "latitude": -22.77438,
+      "longitude": -45.13807
+    },
+    "absoluteKilometer": 228,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 58,
+    "coordinates": {
+      "latitude": -22.77964,
+      "longitude": -45.14536
+    },
+    "absoluteKilometer": 229,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 59,
+    "coordinates": {
+      "latitude": -22.78515,
+      "longitude": -45.15303
+    },
+    "absoluteKilometer": 230,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 60,
+    "coordinates": {
+      "latitude": -22.79091,
+      "longitude": -45.16106
+    },
+    "absoluteKilometer": 231,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 61,
+    "coordinates": {
+      "latitude": -22.79751,
+      "longitude": -45.16758
+    },
+    "absoluteKilometer": 232,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 62,
+    "coordinates": {
+      "latitude": -22.80535,
+      "longitude": -45.17256
+    },
+    "absoluteKilometer": 233,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 63,
+    "coordinates": {
+      "latitude": -22.81264,
+      "longitude": -45.17817
+    },
+    "absoluteKilometer": 234,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 64,
+    "coordinates": {
+      "latitude": -22.81934,
+      "longitude": -45.18439
+    },
+    "absoluteKilometer": 235,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 65,
+    "coordinates": {
+      "latitude": -22.82315,
+      "longitude": -45.19294
+    },
+    "absoluteKilometer": 236,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 66,
+    "coordinates": {
+      "latitude": -22.8225,
+      "longitude": -45.20207
+    },
+    "absoluteKilometer": 237,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 67,
+    "coordinates": {
+      "latitude": -22.82823,
+      "longitude": -45.20854
+    },
+    "absoluteKilometer": 238,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 68,
+    "coordinates": {
+      "latitude": -22.83323,
+      "longitude": -45.2171
+    },
+    "absoluteKilometer": 239,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 69,
+    "coordinates": {
+      "latitude": -22.83974,
+      "longitude": -45.2238
+    },
+    "absoluteKilometer": 240,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 70,
+    "coordinates": {
+      "latitude": -22.84796,
+      "longitude": -45.22733
+    },
+    "absoluteKilometer": 241,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 71,
+    "coordinates": {
+      "latitude": -22.85591,
+      "longitude": -45.23093
+    },
+    "absoluteKilometer": 242,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 72,
+    "coordinates": {
+      "latitude": -22.86286,
+      "longitude": -45.23722
+    },
+    "absoluteKilometer": 243,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 73,
+    "coordinates": {
+      "latitude": -22.86915,
+      "longitude": -45.24401
+    },
+    "absoluteKilometer": 244,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 74,
+    "coordinates": {
+      "latitude": -22.87313,
+      "longitude": -45.25236
+    },
+    "absoluteKilometer": 245,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 75,
+    "coordinates": {
+      "latitude": -22.8749,
+      "longitude": -45.26185
+    },
+    "absoluteKilometer": 246,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 76,
+    "coordinates": {
+      "latitude": -22.87686,
+      "longitude": -45.27141
+    },
+    "absoluteKilometer": 247,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 77,
+    "coordinates": {
+      "latitude": -22.88263,
+      "longitude": -45.27887
+    },
+    "absoluteKilometer": 248,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 78,
+    "coordinates": {
+      "latitude": -22.88831,
+      "longitude": -45.28642
+    },
+    "absoluteKilometer": 249,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 79,
+    "coordinates": {
+      "latitude": -22.89373,
+      "longitude": -45.29426
+    },
+    "absoluteKilometer": 250,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 80,
+    "coordinates": {
+      "latitude": -22.89887,
+      "longitude": -45.30172
+    },
+    "absoluteKilometer": 251,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 81,
+    "coordinates": {
+      "latitude": -22.90443,
+      "longitude": -45.30998
+    },
+    "absoluteKilometer": 252,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 82,
+    "coordinates": {
+      "latitude": -22.90902,
+      "longitude": -45.3188
+    },
+    "absoluteKilometer": 253,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 83,
+    "coordinates": {
+      "latitude": -22.91313,
+      "longitude": -45.32704
+    },
+    "absoluteKilometer": 254,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 84,
+    "coordinates": {
+      "latitude": -22.91746,
+      "longitude": -45.33563
+    },
+    "absoluteKilometer": 255,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 85,
+    "coordinates": {
+      "latitude": -22.92176,
+      "longitude": -45.34418
+    },
+    "absoluteKilometer": 256,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 86,
+    "coordinates": {
+      "latitude": -22.92576,
+      "longitude": -45.35206
+    },
+    "absoluteKilometer": 257,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 87,
+    "coordinates": {
+      "latitude": -22.93003,
+      "longitude": -45.361
+    },
+    "absoluteKilometer": 258,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 88,
+    "coordinates": {
+      "latitude": -22.93428,
+      "longitude": -45.36906
+    },
+    "absoluteKilometer": 259,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 89,
+    "coordinates": {
+      "latitude": -22.93869,
+      "longitude": -45.37782
+    },
+    "absoluteKilometer": 260,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 90,
+    "coordinates": {
+      "latitude": -22.94301,
+      "longitude": -45.3864
+    },
+    "absoluteKilometer": 261,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 91,
+    "coordinates": {
+      "latitude": -22.94731,
+      "longitude": -45.39497
+    },
+    "absoluteKilometer": 262,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 92,
+    "coordinates": {
+      "latitude": -22.95162,
+      "longitude": -45.40352
+    },
+    "absoluteKilometer": 263,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 93,
+    "coordinates": {
+      "latitude": -22.95594,
+      "longitude": -45.41211
+    },
+    "absoluteKilometer": 264,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 94,
+    "coordinates": {
+      "latitude": -22.96023,
+      "longitude": -45.42066
+    },
+    "absoluteKilometer": 265,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 95,
+    "coordinates": {
+      "latitude": -22.96452,
+      "longitude": -45.4292
+    },
+    "absoluteKilometer": 266,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 96,
+    "coordinates": {
+      "latitude": -22.96884,
+      "longitude": -45.4378
+    },
+    "absoluteKilometer": 267,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 97,
+    "coordinates": {
+      "latitude": -22.97314,
+      "longitude": -45.44638
+    },
+    "absoluteKilometer": 268,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 98,
+    "coordinates": {
+      "latitude": -22.97744,
+      "longitude": -45.45496
+    },
+    "absoluteKilometer": 269,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 99,
+    "coordinates": {
+      "latitude": -22.98175,
+      "longitude": -45.46353
+    },
+    "absoluteKilometer": 270,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 100,
+    "coordinates": {
+      "latitude": -22.98605,
+      "longitude": -45.47209
+    },
+    "absoluteKilometer": 271,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 101,
+    "coordinates": {
+      "latitude": -22.99028,
+      "longitude": -45.48053
+    },
+    "absoluteKilometer": 272,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 102,
+    "coordinates": {
+      "latitude": -22.9947,
+      "longitude": -45.48933
+    },
+    "absoluteKilometer": 273,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 103,
+    "coordinates": {
+      "latitude": -22.99903,
+      "longitude": -45.49796
+    },
+    "absoluteKilometer": 274,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 104,
+    "coordinates": {
+      "latitude": -23.00331,
+      "longitude": -45.50646
+    },
+    "absoluteKilometer": 275,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 105,
+    "coordinates": {
+      "latitude": -23.00761,
+      "longitude": -45.51504
+    },
+    "absoluteKilometer": 276,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 106,
+    "coordinates": {
+      "latitude": -23.01266,
+      "longitude": -45.523
+    },
+    "absoluteKilometer": 277,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 107,
+    "coordinates": {
+      "latitude": -23.01823,
+      "longitude": -45.5308
+    },
+    "absoluteKilometer": 278,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 108,
+    "coordinates": {
+      "latitude": -23.02376,
+      "longitude": -45.53852
+    },
+    "absoluteKilometer": 279,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 109,
+    "coordinates": {
+      "latitude": -23.02928,
+      "longitude": -45.54619
+    },
+    "absoluteKilometer": 280,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 110,
+    "coordinates": {
+      "latitude": -23.03483,
+      "longitude": -45.55397
+    },
+    "absoluteKilometer": 281,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 111,
+    "coordinates": {
+      "latitude": -23.03927,
+      "longitude": -45.56252
+    },
+    "absoluteKilometer": 282,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 112,
+    "coordinates": {
+      "latitude": -23.04173,
+      "longitude": -45.57183
+    },
+    "absoluteKilometer": 283,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 113,
+    "coordinates": {
+      "latitude": -23.04414,
+      "longitude": -45.58123
+    },
+    "absoluteKilometer": 284,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 114,
+    "coordinates": {
+      "latitude": -23.04651,
+      "longitude": -45.59061
+    },
+    "absoluteKilometer": 285,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 115,
+    "coordinates": {
+      "latitude": -23.04945,
+      "longitude": -45.59977
+    },
+    "absoluteKilometer": 286,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 116,
+    "coordinates": {
+      "latitude": -23.05345,
+      "longitude": -45.60852
+    },
+    "absoluteKilometer": 287,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 117,
+    "coordinates": {
+      "latitude": -23.05783,
+      "longitude": -45.61727
+    },
+    "absoluteKilometer": 288,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 118,
+    "coordinates": {
+      "latitude": -23.06204,
+      "longitude": -45.62579
+    },
+    "absoluteKilometer": 289,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 119,
+    "coordinates": {
+      "latitude": -23.0665,
+      "longitude": -45.63475
+    },
+    "absoluteKilometer": 290,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 120,
+    "coordinates": {
+      "latitude": -23.0706,
+      "longitude": -45.64295
+    },
+    "absoluteKilometer": 291,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 121,
+    "coordinates": {
+      "latitude": -23.07491,
+      "longitude": -45.65144
+    },
+    "absoluteKilometer": 292,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 122,
+    "coordinates": {
+      "latitude": -23.08042,
+      "longitude": -45.65965
+    },
+    "absoluteKilometer": 293,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 123,
+    "coordinates": {
+      "latitude": -23.08568,
+      "longitude": -45.66727
+    },
+    "absoluteKilometer": 294,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 124,
+    "coordinates": {
+      "latitude": -23.09104,
+      "longitude": -45.67512
+    },
+    "absoluteKilometer": 295,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 125,
+    "coordinates": {
+      "latitude": -23.09645,
+      "longitude": -45.683
+    },
+    "absoluteKilometer": 296,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 126,
+    "coordinates": {
+      "latitude": -23.10173,
+      "longitude": -45.69068
+    },
+    "absoluteKilometer": 297,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 127,
+    "coordinates": {
+      "latitude": -23.10708,
+      "longitude": -45.6985
+    },
+    "absoluteKilometer": 298,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 128,
+    "coordinates": {
+      "latitude": -23.11214,
+      "longitude": -45.70662
+    },
+    "absoluteKilometer": 299,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 129,
+    "coordinates": {
+      "latitude": -23.11644,
+      "longitude": -45.71521
+    },
+    "absoluteKilometer": 300,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 130,
+    "coordinates": {
+      "latitude": -23.12082,
+      "longitude": -45.72371
+    },
+    "absoluteKilometer": 301,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 131,
+    "coordinates": {
+      "latitude": -23.12516,
+      "longitude": -45.73228
+    },
+    "absoluteKilometer": 302,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 132,
+    "coordinates": {
+      "latitude": -23.12952,
+      "longitude": -45.74084
+    },
+    "absoluteKilometer": 303,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 133,
+    "coordinates": {
+      "latitude": -23.13396,
+      "longitude": -45.74928
+    },
+    "absoluteKilometer": 304,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 134,
+    "coordinates": {
+      "latitude": -23.13814,
+      "longitude": -45.75796
+    },
+    "absoluteKilometer": 305,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 135,
+    "coordinates": {
+      "latitude": -23.14248,
+      "longitude": -45.76655
+    },
+    "absoluteKilometer": 306,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 136,
+    "coordinates": {
+      "latitude": -23.14678,
+      "longitude": -45.77509
+    },
+    "absoluteKilometer": 307,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 137,
+    "coordinates": {
+      "latitude": -23.15112,
+      "longitude": -45.78368
+    },
+    "absoluteKilometer": 308,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 138,
+    "coordinates": {
+      "latitude": -23.15545,
+      "longitude": -45.79228
+    },
+    "absoluteKilometer": 309,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 139,
+    "coordinates": {
+      "latitude": -23.15977,
+      "longitude": -45.8008
+    },
+    "absoluteKilometer": 310,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 140,
+    "coordinates": {
+      "latitude": -23.16428,
+      "longitude": -45.80976
+    },
+    "absoluteKilometer": 311,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 141,
+    "coordinates": {
+      "latitude": -23.16841,
+      "longitude": -45.818
+    },
+    "absoluteKilometer": 312,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 142,
+    "coordinates": {
+      "latitude": -23.17269,
+      "longitude": -45.82659
+    },
+    "absoluteKilometer": 313,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 143,
+    "coordinates": {
+      "latitude": -23.177,
+      "longitude": -45.83518
+    },
+    "absoluteKilometer": 314,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 144,
+    "coordinates": {
+      "latitude": -23.1813,
+      "longitude": -45.84376
+    },
+    "absoluteKilometer": 315,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 145,
+    "coordinates": {
+      "latitude": -23.18564,
+      "longitude": -45.85246
+    },
+    "absoluteKilometer": 316,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 146,
+    "coordinates": {
+      "latitude": -23.18988,
+      "longitude": -45.86092
+    },
+    "absoluteKilometer": 317,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 147,
+    "coordinates": {
+      "latitude": -23.19412,
+      "longitude": -45.86955
+    },
+    "absoluteKilometer": 318,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 148,
+    "coordinates": {
+      "latitude": -23.19908,
+      "longitude": -45.8781
+    },
+    "absoluteKilometer": 319,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 149,
+    "coordinates": {
+      "latitude": -23.20549,
+      "longitude": -45.88506
+    },
+    "absoluteKilometer": 320,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 150,
+    "coordinates": {
+      "latitude": -23.21158,
+      "longitude": -45.89159
+    },
+    "absoluteKilometer": 321,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 151,
+    "coordinates": {
+      "latitude": -23.21832,
+      "longitude": -45.89869
+    },
+    "absoluteKilometer": 322,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 152,
+    "coordinates": {
+      "latitude": -23.22461,
+      "longitude": -45.90524
+    },
+    "absoluteKilometer": 323,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 153,
+    "coordinates": {
+      "latitude": -23.23102,
+      "longitude": -45.91213
+    },
+    "absoluteKilometer": 324,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 154,
+    "coordinates": {
+      "latitude": -23.23745,
+      "longitude": -45.91902
+    },
+    "absoluteKilometer": 325,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 155,
+    "coordinates": {
+      "latitude": -23.24388,
+      "longitude": -45.92603
+    },
+    "absoluteKilometer": 326,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 156,
+    "coordinates": {
+      "latitude": -23.2488,
+      "longitude": -45.93337
+    },
+    "absoluteKilometer": 327,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 157,
+    "coordinates": {
+      "latitude": -23.2542,
+      "longitude": -45.94188
+    },
+    "absoluteKilometer": 328,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 158,
+    "coordinates": {
+      "latitude": -23.25933,
+      "longitude": -45.9499
+    },
+    "absoluteKilometer": 329,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 159,
+    "coordinates": {
+      "latitude": -23.26452,
+      "longitude": -45.95797
+    },
+    "absoluteKilometer": 330,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 160,
+    "coordinates": {
+      "latitude": -23.26968,
+      "longitude": -45.96596
+    },
+    "absoluteKilometer": 331,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 161,
+    "coordinates": {
+      "latitude": -23.27484,
+      "longitude": -45.974
+    },
+    "absoluteKilometer": 332,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 162,
+    "coordinates": {
+      "latitude": -23.27998,
+      "longitude": -45.98205
+    },
+    "absoluteKilometer": 333,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 163,
+    "coordinates": {
+      "latitude": -23.28513,
+      "longitude": -45.99005
+    },
+    "absoluteKilometer": 334,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 164,
+    "coordinates": {
+      "latitude": -23.2903,
+      "longitude": -45.99817
+    },
+    "absoluteKilometer": 335,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 165,
+    "coordinates": {
+      "latitude": -23.29475,
+      "longitude": -46.00504
+    },
+    "absoluteKilometer": 336,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 166,
+    "coordinates": {
+      "latitude": -23.29994,
+      "longitude": -46.01451
+    },
+    "absoluteKilometer": 337,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 167,
+    "coordinates": {
+      "latitude": -23.30179,
+      "longitude": -46.02416
+    },
+    "absoluteKilometer": 338,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 168,
+    "coordinates": {
+      "latitude": -23.30462,
+      "longitude": -46.03337
+    },
+    "absoluteKilometer": 339,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 169,
+    "coordinates": {
+      "latitude": -23.30731,
+      "longitude": -46.04268
+    },
+    "absoluteKilometer": 340,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 170,
+    "coordinates": {
+      "latitude": -23.30757,
+      "longitude": -46.05249
+    },
+    "absoluteKilometer": 341,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 171,
+    "coordinates": {
+      "latitude": -23.31072,
+      "longitude": -46.06144
+    },
+    "absoluteKilometer": 342,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 172,
+    "coordinates": {
+      "latitude": -23.31481,
+      "longitude": -46.07005
+    },
+    "absoluteKilometer": 343,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 173,
+    "coordinates": {
+      "latitude": -23.31629,
+      "longitude": -46.07955
+    },
+    "absoluteKilometer": 344,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 174,
+    "coordinates": {
+      "latitude": -23.31981,
+      "longitude": -46.08855
+    },
+    "absoluteKilometer": 345,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 175,
+    "coordinates": {
+      "latitude": -23.32161,
+      "longitude": -46.09815
+    },
+    "absoluteKilometer": 346,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 176,
+    "coordinates": {
+      "latitude": -23.32177,
+      "longitude": -46.10783
+    },
+    "absoluteKilometer": 347,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 177,
+    "coordinates": {
+      "latitude": -23.32249,
+      "longitude": -46.11754
+    },
+    "absoluteKilometer": 348,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 178,
+    "coordinates": {
+      "latitude": -23.32657,
+      "longitude": -46.12618
+    },
+    "absoluteKilometer": 349,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 179,
+    "coordinates": {
+      "latitude": -23.33109,
+      "longitude": -46.13474
+    },
+    "absoluteKilometer": 350,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 180,
+    "coordinates": {
+      "latitude": -23.33537,
+      "longitude": -46.14333
+    },
+    "absoluteKilometer": 351,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 181,
+    "coordinates": {
+      "latitude": -23.33993,
+      "longitude": -46.15182
+    },
+    "absoluteKilometer": 352,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 182,
+    "coordinates": {
+      "latitude": -23.34421,
+      "longitude": -46.16036
+    },
+    "absoluteKilometer": 353,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 183,
+    "coordinates": {
+      "latitude": -23.34833,
+      "longitude": -46.16909
+    },
+    "absoluteKilometer": 354,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 184,
+    "coordinates": {
+      "latitude": -23.35143,
+      "longitude": -46.17822
+    },
+    "absoluteKilometer": 355,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 185,
+    "coordinates": {
+      "latitude": -23.35198,
+      "longitude": -46.18785
+    },
+    "absoluteKilometer": 356,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 186,
+    "coordinates": {
+      "latitude": -23.35196,
+      "longitude": -46.19756
+    },
+    "absoluteKilometer": 357,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 187,
+    "coordinates": {
+      "latitude": -23.35641,
+      "longitude": -46.20564
+    },
+    "absoluteKilometer": 358,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 188,
+    "coordinates": {
+      "latitude": -23.35883,
+      "longitude": -46.21513
+    },
+    "absoluteKilometer": 359,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 189,
+    "coordinates": {
+      "latitude": -23.36363,
+      "longitude": -46.22336
+    },
+    "absoluteKilometer": 360,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 190,
+    "coordinates": {
+      "latitude": -23.36755,
+      "longitude": -46.23204
+    },
+    "absoluteKilometer": 361,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 191,
+    "coordinates": {
+      "latitude": -23.37041,
+      "longitude": -46.24156
+    },
+    "absoluteKilometer": 362,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 192,
+    "coordinates": {
+      "latitude": -23.37662,
+      "longitude": -46.24825
+    },
+    "absoluteKilometer": 363,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 193,
+    "coordinates": {
+      "latitude": -23.37956,
+      "longitude": -46.25715
+    },
+    "absoluteKilometer": 364,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 194,
+    "coordinates": {
+      "latitude": -23.38442,
+      "longitude": -46.26547
+    },
+    "absoluteKilometer": 365,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 195,
+    "coordinates": {
+      "latitude": -23.38828,
+      "longitude": -46.27431
+    },
+    "absoluteKilometer": 366,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 196,
+    "coordinates": {
+      "latitude": -23.39214,
+      "longitude": -46.28311
+    },
+    "absoluteKilometer": 367,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 197,
+    "coordinates": {
+      "latitude": -23.39655,
+      "longitude": -46.29156
+    },
+    "absoluteKilometer": 368,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 198,
+    "coordinates": {
+      "latitude": -23.39951,
+      "longitude": -46.30071
+    },
+    "absoluteKilometer": 369,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 199,
+    "coordinates": {
+      "latitude": -23.40165,
+      "longitude": -46.31026
+    },
+    "absoluteKilometer": 370,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 200,
+    "coordinates": {
+      "latitude": -23.40282,
+      "longitude": -46.31941
+    },
+    "absoluteKilometer": 371,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 201,
+    "coordinates": {
+      "latitude": -23.40339,
+      "longitude": -46.32979
+    },
+    "absoluteKilometer": 372,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 202,
+    "coordinates": {
+      "latitude": -23.40788,
+      "longitude": -46.33799
+    },
+    "absoluteKilometer": 373,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 203,
+    "coordinates": {
+      "latitude": -23.41054,
+      "longitude": -46.34717
+    },
+    "absoluteKilometer": 374,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 204,
+    "coordinates": {
+      "latitude": -23.41232,
+      "longitude": -46.35642
+    },
+    "absoluteKilometer": 375,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 205,
+    "coordinates": {
+      "latitude": -23.41485,
+      "longitude": -46.36603
+    },
+    "absoluteKilometer": 376,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 206,
+    "coordinates": {
+      "latitude": -23.41744,
+      "longitude": -46.37567
+    },
+    "absoluteKilometer": 377,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 207,
+    "coordinates": {
+      "latitude": -23.42001,
+      "longitude": -46.38504
+    },
+    "absoluteKilometer": 378,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 208,
+    "coordinates": {
+      "latitude": -23.42241,
+      "longitude": -46.39371
+    },
+    "absoluteKilometer": 379,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 209,
+    "coordinates": {
+      "latitude": -23.42528,
+      "longitude": -46.40248
+    },
+    "absoluteKilometer": 380,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 210,
+    "coordinates": {
+      "latitude": -23.42903,
+      "longitude": -46.41142
+    },
+    "absoluteKilometer": 381,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 211,
+    "coordinates": {
+      "latitude": -23.43276,
+      "longitude": -46.42038
+    },
+    "absoluteKilometer": 382,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 212,
+    "coordinates": {
+      "latitude": -23.43691,
+      "longitude": -46.43024
+    },
+    "absoluteKilometer": 383,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 213,
+    "coordinates": {
+      "latitude": -23.44051,
+      "longitude": -46.43879
+    },
+    "absoluteKilometer": 384,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 214,
+    "coordinates": {
+      "latitude": -23.44438,
+      "longitude": -46.44814
+    },
+    "absoluteKilometer": 385,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 215,
+    "coordinates": {
+      "latitude": -23.4479,
+      "longitude": -46.45645
+    },
+    "absoluteKilometer": 386,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 216,
+    "coordinates": {
+      "latitude": -23.45168,
+      "longitude": -46.46547
+    },
+    "absoluteKilometer": 387,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 217,
+    "coordinates": {
+      "latitude": -23.45558,
+      "longitude": -46.47478
+    },
+    "absoluteKilometer": 388,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 218,
+    "coordinates": {
+      "latitude": -23.45913,
+      "longitude": -46.4832
+    },
+    "absoluteKilometer": 389,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 219,
+    "coordinates": {
+      "latitude": -23.46259,
+      "longitude": -46.49228
+    },
+    "absoluteKilometer": 390,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 220,
+    "coordinates": {
+      "latitude": -23.46587,
+      "longitude": -46.50137
+    },
+    "absoluteKilometer": 391,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 221,
+    "coordinates": {
+      "latitude": -23.46899,
+      "longitude": -46.51056
+    },
+    "absoluteKilometer": 392,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 222,
+    "coordinates": {
+      "latitude": -23.47229,
+      "longitude": -46.51947
+    },
+    "absoluteKilometer": 393,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 223,
+    "coordinates": {
+      "latitude": -23.47745,
+      "longitude": -46.52779
+    },
+    "absoluteKilometer": 394,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 224,
+    "coordinates": {
+      "latitude": -23.48251,
+      "longitude": -46.53564
+    },
+    "absoluteKilometer": 395,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 225,
+    "coordinates": {
+      "latitude": -23.48766,
+      "longitude": -46.5437
+    },
+    "absoluteKilometer": 396,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 226,
+    "coordinates": {
+      "latitude": -23.49293,
+      "longitude": -46.55163
+    },
+    "absoluteKilometer": 397,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 227,
+    "coordinates": {
+      "latitude": -23.4986,
+      "longitude": -46.55969
+    },
+    "absoluteKilometer": 398,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 228,
+    "coordinates": {
+      "latitude": -23.50389,
+      "longitude": -46.56728
+    },
+    "absoluteKilometer": 399,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 229,
+    "coordinates": {
+      "latitude": -23.51038,
+      "longitude": -46.57381
+    },
+    "absoluteKilometer": 400,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 230,
+    "coordinates": {
+      "latitude": -23.51722,
+      "longitude": -46.58033
+    },
+    "absoluteKilometer": 401,
+    "state": "SP"
+  },
+  {
+    "officialKilometer": 231,
+    "coordinates": {
+      "latitude": -23.52417,
+      "longitude": -46.58666
+    },
+    "absoluteKilometer": 402,
+    "state": "SP"
+  }
+]
