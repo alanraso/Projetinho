@@ -5,4 +5,4 @@ pokemon.name = 'Pikachu';
 pokemon.level = 10;
 pokemon.hitpoints = 28;
 
-console.log(pokemon);
+pokemon.move();
