@@ -1,6 +1,8 @@
-import { Pokemon } from './pokemon';
+import { Pokemon } from "./pokemon";
 
 const pokemon = new Pokemon();
-pokemon.name = 'Pikachu';
+pokemon.name = "Pikachu";
 
 console.log(pokemon);
+
+pokemon.attack();
