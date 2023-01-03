@@ -3,7 +3,7 @@ export class Pokemon {
   hitpoints: number;
 
   attack() {
-    console.log(`Pokemon ${this.name} has attacked!!`);
+    console.log(`Pokemon ${this.name} has attacked!`);
     console.log(`HP: ${this.hitpoints}`);
   }
 }
