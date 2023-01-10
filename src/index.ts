@@ -5,4 +5,6 @@ pokemon.name = 'Pikachu';
 pokemon.hitpoints = 30;
 
 console.log(pokemon);
+
 pokemon.attack();
+pokemon.move();
