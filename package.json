@@ -4,14 +4,14 @@
   "version": "0.0.1",
   "repository": "https://github.com/alanraso/Projetinho",
   "scripts": {
-    "start": "tsc && node dist/index.js",
+    "build": "tsc",
+    "start": "node dist/index.js",
     "clean-dist": "rm -rf ./dist",
     "postinstall": "npm run clean-dist && tsc",
     "reinstall": "rm -rf ./node_modules || true && npm install"
   },
   "license": "ISC",
   "dependencies": {
-    
   },
   "devDependencies": {
     "@types/node": "14.17.15",
