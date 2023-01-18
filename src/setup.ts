@@ -1,34 +1,22 @@
-import { ApolloServer, gql } from "apollo-server";
-import { DataSource } from "typeorm";
+import { ApolloServer } from '@apollo/server';
+import { startStandaloneServer } from '@apollo/server/standalone';
+import { resolvers } from './resolvers';
+import { typeDefs } from './schema';
+import { DataSource } from 'typeorm';
 
 async function connectedDb() {
-  console.log(process.env.DATABASE_URL);
   const datasource = new DataSource({
-    type: "postgres",
+    type: 'postgres',
     url: process.env.DATABASE_URL,
   });
 
   await datasource.initialize();
-  console.info("DB connected!");
+  console.info('DB connected!');
 }
 
 async function setupServer() {
-  const typeDefs = gql`
-    type Query {
-      hello: String
-    }
-  `;
-
-  const resolvers = {
-    Query: {
-      hello: () => {
-        return "Hello World!";
-      },
-    },
-  };
-
-  const app = new ApolloServer({ typeDefs, resolvers });
-  const { url } = await app.listen({ port: process.env.PORT })
+  const server = new ApolloServer({ typeDefs, resolvers });
+  const { url } = await startStandaloneServer(server, { listen: { port: +process.env.PORT } });
   console.info(`Server running on: ${url}`);
 }
 
