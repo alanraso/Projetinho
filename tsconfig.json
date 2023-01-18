@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "module": "NodeNext",
+    "skipLibCheck": true,
+    "paths": {
+      "#root/*": ["./*"]
+    }
+  }
+}
