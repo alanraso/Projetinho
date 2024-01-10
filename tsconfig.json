@@ -3,7 +3,7 @@
     "baseUrl": "src",
     "outDir": "dist",
     "esModuleInterop": true,
-    "module": "NodeNext",
+    "module": "ESNext",
     "skipLibCheck": true,
     "paths": {
       "#root/*": ["./*"]
