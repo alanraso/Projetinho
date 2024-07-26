@@ -1,28 +1,13 @@
 {
   "compilerOptions": {
-    "baseUrl": "src",
-    "target": "ES2022",
-    "module": "commonjs",
-    "moduleResolution": "node",
-    "isolatedModules": false,
-    "emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
-    "declaration": false,
-    "noImplicitAny": false,
-    "noImplicitUseStrict": false,
-    "removeComments": true,
-    "noLib": false,
-    "skipLibCheck": true,
-    "preserveConstEnums": true,
-    "suppressImplicitAnyIndexErrors": true,
-    "typeRoots": ["node_modules/@types"],
+    "rootDirs": ["src"],
     "outDir": "dist",
-    "allowJs": true,
-  },
-  "exclude": [
-    "node_modules",
-    "dist",
-    "tsconfig-paths-dist.js",
-    "src/test/"
-  ]
+    "lib": ["es2020"],
+    "target": "es2020",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "types": ["node"],
+    "skipLibCheck": true
+  }
 }

@@ -1,7 +1,25 @@
-import "reflect-metadata";
-import { config } from 'dotenv';
-import { setup } from './setup';
+import { ApolloServer } from '@apollo/server';
+import { startStandaloneServer } from '@apollo/server/standalone';
 
-config();
-console.info('Initiating setup...');
-setup();
+const typeDefs = `#graphql
+  type Query {
+    hello: String!
+  }
+`;
+
+const resolvers = {
+  Query: {
+    hello: () => "Hello, World!"
+  },
+};
+
+const server = new ApolloServer({
+  typeDefs,
+  resolvers,
+});
+
+const { url } = await startStandaloneServer(server, {
+  listen: { port: 4000 },
+});
+
+console.log(`🚀  Server ready at: ${url}`);
