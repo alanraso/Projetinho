@@ -3,24 +3,23 @@
   "description": "Test repo",
   "version": "0.0.1",
   "repository": "https://github.com/alanraso/Projetinho",
+  "type": "module",
   "scripts": {
-    "start": "tsc && node dist/index.js",
-    "clean-dist": "rm -rf ./dist",
-    "postinstall": "npm run clean-dist && tsc",
-    "reinstall": "rm -rf ./node_modules || true && npm install"
+    "dev": "tsc && tsx src/index.ts",
+    "reinstall": "rm -rf ./node_modules || true && npm install",
+    "start": "node dist/index.js"
   },
   "license": "ISC",
   "dependencies": {
-    
   },
   "devDependencies": {
-    "@types/node": "14.17.15",
-    "ts-node": "10.7.0",
-    "tsconfig-paths": "3.14.1",
-    "typescript": "4.6.4"
+    "@types/node": "22.9.0",
+    "tsx": "4.19.2",
+    "tsconfig-paths": "4.2.0",
+    "typescript": "5.6.3"
   },
   "engines": {
-    "node": "14.17.6",
-    "npm": ">=7.22.0"
+    "node": ">=22",
+    "npm": ">=10"
   }
 }

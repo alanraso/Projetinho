@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "target": "es6",
-    "module": "commonjs",
+    "target": "ESNext",
+    "module": "ESNext",
     "moduleResolution": "node",
     "isolatedModules": false,
     "emitDecoratorMetadata": true,
@@ -11,16 +11,7 @@
     "noImplicitUseStrict": false,
     "removeComments": true,
     "noLib": false,
-    "lib": [
-      "es2017",
-      "dom",
-      "esnext.asynciterable"
-    ],
     "preserveConstEnums": true,
-    "suppressImplicitAnyIndexErrors": true,
-    "typeRoots": [
-      "node_modules/@types"
-    ],
     "outDir": "dist",
     "allowJs": true,
   },
@@ -28,10 +19,5 @@
     "node_modules",
     "dist",
     "tsconfig-paths-dist.js"
-  ],
-  "compileOnSave": false,
-  "buildOnSave": false,
-  "atom": {
-    "rewriteTsconfig": false
-  }
+  ]
 }
