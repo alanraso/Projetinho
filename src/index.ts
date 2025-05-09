@@ -1,66 +1,22 @@
-import { ApolloServer } from '@apollo/server';
-import { startStandaloneServer } from '@apollo/server/standalone';
 import { PrismaClient } from '@prisma/client';
+import Fastify from 'fastify';
 
-const prisma = new PrismaClient();
+const PORT = 3000;
 
-interface UserInput {
-  name: string;
-  email: string;
-  password: string;
-  birthDate: string;
-}
+const fastify = Fastify();
 
-const typeDefs = `#graphql
-type Query {
-  hello: String
-}
-
-type Mutation {
-  createUser(data: UserInput!): User!
-}
-
-input UserInput {
-  name: String!
-  email: String!
-  password: String!
-  birthDate: String!
-}
-
-type User {
-  id: Int!
-  name: String!
-  email: String!
-  birthDate: String!
-}
-`;
-
-const resolvers = {
-  Query: {
-    hello: () => 'Hello World',
-  },
-  Mutation: {
-    createUser: async (_, args: { data: UserInput }) => {
-      console.log('args:', args);
-      return {
-        id: '1',
-        email: 'admin@tatqile.com.br',
-        name: 'Admin Taqtile',
-        birthDate: '1990-01-01',
-      };
-    },
-  },
-};
-
-await prisma.$connect();
-
-const server = new ApolloServer({
-  typeDefs,
-  resolvers,
+fastify.get('/hello', async function handler(request, reply) {
+  return { hello: 'world' };
 });
 
-const { url } = await startStandaloneServer(server, {
-  listen: { port: +process.env.PORT },
-});
 
-console.log(`Server started at: ${url}`);
+const client = new PrismaClient({ datasourceUrl: 'postgres://taqtile:1234qwer@localhost:5432/local' });
+
+try {
+  await fastify.listen({ port: PORT });
+  console.info(`Server is running at http://localhost:${PORT}`);
+  console.log(await client.user.findMany());
+} catch (error) {
+  console.error(error)
+  process.exit(1);
+}
